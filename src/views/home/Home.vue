@@ -226,6 +226,7 @@ export default {
 
 #Home .footer
   max-width: 1720px
+  width: 100%
   // position: absolute
   // bottom: 30px
   // left: 50%
