@@ -1,0 +1,6 @@
+{
+  "pagesFolderList": [
+   "dragon/pages/"
+  ],
+  "loginComponentPath": "dragon/pages/login"
+}
